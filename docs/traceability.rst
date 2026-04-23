@@ -25,7 +25,6 @@ connect:
    :engine: plantuml
    :show_link_names:
    :show_legend:
-   :config: spacelab
 
 Specifications Matrix
 ---------------------
