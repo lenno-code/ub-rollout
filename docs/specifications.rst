@@ -2,9 +2,6 @@ Specifications
 ==============
 
 Technical specifications derived from requirements.
-
-Authentication Specification
-----------------------------
    
 
 .. spec:: Three Speed modes
