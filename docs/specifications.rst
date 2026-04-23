@@ -28,7 +28,7 @@ Authentication Specification
 
    The driver shall be able to select wiper speed via a control lever
 
-.. spec:: Select wiper mode
+.. spec:: Wiper mode fallback
    :id: SPEC_003_001
    :status: open
    :implements: REQ_003

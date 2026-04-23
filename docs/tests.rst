@@ -22,7 +22,7 @@ Test Cases
 
    Verify that manual input overrides automatic mode
 
-.. test:: Test manual override
+.. test:: Test fallback to intermittent mode
    :id: TEST_003_001
    :status: open
    :tests: SPEC_003_001
