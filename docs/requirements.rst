@@ -21,7 +21,7 @@ System Requirements
 
    The system shall allow manual override of the wiper speed by the driver
 
-.. req:: Windshield Wiper manual override
+.. req:: Windshield safety fallback
    :id: REQ_003
    :status: open
    :priority: high
